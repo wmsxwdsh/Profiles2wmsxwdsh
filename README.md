@@ -5,6 +5,7 @@
 
 ## 一、Quantumult 懒人配置
 懒人配置
+<br/>
 S大：https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf
 <br/>
 神机：https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Outbound.conf
