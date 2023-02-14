@@ -18,6 +18,10 @@ Yatta：https://raw.githubusercontent.com/yawenchim/QuantumultX-mix/master/Yatta
 <br/>
 奇心：https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qixin.conf
 
-
+圈X懒人配置
 
 <br/>
+
+## 二、使用教程
+### 1. Sub-Store 教程
+传送门：https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46
