@@ -1,7 +1,7 @@
 # Profiles2wmsxwdsh
 <br>
 
-搜集多方大神的 Quantumult / Surge 懒人配置，先学习模仿，后融会贯通，最终为我所用。
+搜集多方大神的 Quantumult X / Surge 懒人配置，先学习模仿，后融会贯通，最终为我所用。
 
 ## 一、Quantumult 懒人配置
 懒人配置
