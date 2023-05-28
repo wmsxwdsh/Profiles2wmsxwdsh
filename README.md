@@ -21,7 +21,9 @@ Yatta：https://raw.githubusercontent.com/yawenchim/QuantumultX-mix/master/Yatta
 ## 二、Surge 懒人配置
 iOS、macOS，大部分都是通用的。
 <br/>
-Surge作者推荐的最小配置：https://gist.githubusercontent.com/Zeaphyou/864aebea248ca1bb8000e0e5623b65f3/raw/c36413c715f43f22772d3c2353358e1ff936b2e6/Surge.conf
+<br/>
+Surge作者推荐的最小配置： [链接地址有点长，点我直接跳转]( https://gist.githubusercontent.com/Zeaphyou/864aebea248ca1bb8000e0e5623b65f3/raw/c36413c715f43f22772d3c2353358e1ff936b2e6/Surge.conf )
+
 
 ## 三、使用教程
 ### 1. Sub-Store 教程
