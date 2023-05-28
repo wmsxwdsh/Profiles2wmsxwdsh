@@ -18,8 +18,12 @@ Yatta：https://raw.githubusercontent.com/yawenchim/QuantumultX-mix/master/Yatta
 <br/>
 奇心：https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qixin.conf
 
+## 二、Surge 懒人配置
+iOS、macOS，大部分都是通用的。
+<br/>
+Surge作者推荐的最小配置：https://gist.githubusercontent.com/Zeaphyou/864aebea248ca1bb8000e0e5623b65f3/raw/c36413c715f43f22772d3c2353358e1ff936b2e6/Surge.conf
 
-## 二、使用教程
+## 三、使用教程
 ### 1. Sub-Store 教程
 传送门：https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46
 
