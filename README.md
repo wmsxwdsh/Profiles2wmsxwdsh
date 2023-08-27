@@ -33,7 +33,7 @@ Surge作者推荐的最小配置： [链接地址有点长，点我直接跳转]
 ### 2. 解锁 TikTok（圈X）
 传送门：https://github.com/Semporia/TikTok-Unlock
 
-### 2. 图标Qure（圈X自定义图标)
+### 3. 图标Qure（圈X自定义图标)
 传送门：https://github.com/Koolson/Qure
 
 
