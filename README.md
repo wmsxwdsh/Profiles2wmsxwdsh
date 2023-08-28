@@ -23,8 +23,14 @@ Yatta：https://raw.githubusercontent.com/yawenchim/QuantumultX-mix/master/Yatta
 iOS、macOS，大部分都是通用的。
 <br/>
 <br/>
-Surge作者推荐的最小配置： [链接地址有点长，点我直接跳转]( https://gist.githubusercontent.com/Zeaphyou/864aebea248ca1bb8000e0e5623b65f3/raw/c36413c715f43f22772d3c2353358e1ff936b2e6/Surge.conf )
 
+Surge 开发者推荐的最小配置： [链接地址有点长，点我直接跳转]( https://gist.githubusercontent.com/Zeaphyou/864aebea248ca1bb8000e0e5623b65f3/raw/c36413c715f43f22772d3c2353358e1ff936b2e6/Surge.conf )
+<br/>
+Lucky 自用：https://raw.githubusercontent.com/Scully1108/Lucky/main/Lucky-Surgr.conf
+<br/>
+神机：https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Outbound.conf
+<br/>
+深巷有猫：https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge.conf
 
 ## 三、拓展和补充
 
