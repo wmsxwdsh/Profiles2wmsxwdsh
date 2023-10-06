@@ -6,7 +6,7 @@
 <br/>
 Quantumult X 不完全教程：https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
 
-## 一、Quantumult 懒人配置
+## 一、Quantumult X 懒人配置
 墨鱼：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
 <br/>
 S大：https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf
