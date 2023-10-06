@@ -36,10 +36,10 @@ Lucky 自用：https://raw.githubusercontent.com/Scully1108/Lucky/main/Lucky-Sur
 
 ## 三、拓展和补充
 
-### 1. 圈X主页介绍
+### 1. 圈X 主页介绍
 ![圈X主页介绍](https://raw.githubusercontent.com/wmsxwdsh/Profiles2wmsxwdsh/main/Quantumult%20X%20%E4%B8%BB%E9%A1%B5%E4%BB%8B%E7%BB%8D.png)
 
-### 2. 图标Qure（圈X自定义图标)
+### 2. 图标 Qure（圈X 自定义图标)
 传送门：https://github.com/Koolson/Qure
 
 ### 3. Sub-Store 教程
