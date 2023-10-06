@@ -62,7 +62,6 @@ event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/
 ; https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/UI-Action.json
 ```
 
-<br/>
 ## 支持
 感谢 [JetBrains](https://www.jetbrains.com/) 提供的工具支持
 
