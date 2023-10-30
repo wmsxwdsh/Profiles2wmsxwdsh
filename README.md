@@ -20,6 +20,8 @@ Orz：https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf
 Yatta：https://raw.githubusercontent.com/yawenchim/QuantumultX-mix/master/YattaQuanXCDN.conf
 <br/>
 奇心：https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qixin.conf
+<br/>
+---- 我的：https://raw.githubusercontent.com/wmsxwdsh/Profiles2wmsxwdsh/main/wmsxwdsh.conf
 
 ## 二、Surge 懒人配置
 iOS、macOS，大部分都是通用的。
@@ -36,21 +38,21 @@ Lucky 自用：https://raw.githubusercontent.com/Scully1108/Lucky/main/Lucky-Sur
 
 ## 三、拓展和补充
 
-### 1. 圈X 主页介绍
+### 1、圈X 主页介绍
 ![圈X主页介绍](https://raw.githubusercontent.com/wmsxwdsh/Profiles2wmsxwdsh/main/Quantumult%20X%20%E4%B8%BB%E9%A1%B5%E4%BB%8B%E7%BB%8D.png)
 
-### 2. 图标 Qure（圈X 自定义图标)
+### 2、图标 Qure（圈X 自定义图标)
 传送门：https://github.com/Koolson/Qure
 
-### 3. Sub-Store 教程
+### 3、Sub-Store 教程
 传送门：https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46
 <br/>
 自用的订阅转换：https://github.com/wmsxwdsh/ClashSub
 
-### 4. 圈X 解锁 TikTok
+### 4、圈X 解锁 TikTok
 传送门：https://github.com/Semporia/TikTok-Unlock
 
-### 5. 圈X 本地任务脚本
+### 5、圈X 本地任务脚本
 ```text
 [task_local]
 # > 流媒体解锁查询
