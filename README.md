@@ -41,8 +41,10 @@ Lucky 自用：https://raw.githubusercontent.com/Scully1108/Lucky/main/Lucky-Sur
 ### 1、圈X 主页介绍
 ![圈X主页介绍](https://raw.githubusercontent.com/wmsxwdsh/Profiles2wmsxwdsh/main/Quantumult%20X%20%E4%B8%BB%E9%A1%B5%E4%BB%8B%E7%BB%8D.png)
 
-### 2、图标 Qure（圈X 自定义图标)
-传送门：https://github.com/Koolson/Qure
+### 2、图标（圈X 自定义图标)
+Qure：https://github.com/Koolson/Qure
+<br>
+Twoandz9：https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/TheRaw.json
 
 ### 3、Sub-Store 教程
 传送门：https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46
