@@ -41,18 +41,15 @@ Lucky 自用：https://raw.githubusercontent.com/Scully1108/Lucky/main/Lucky-Sur
 ### 1、圈X 主页介绍
 ![圈X 主页介绍](https://raw.githubusercontent.com/wmsxwdsh/Profiles2wmsxwdsh/main/Quantumult%20X%20%E4%B8%BB%E9%A1%B5%E4%BB%8B%E7%BB%8D.png)
 
-### 2、圈X 闪电标志
-![圈X 闪电标志](https://raw.githubusercontent.com/wmsxwdsh/Profiles2wmsxwdsh/main/Quantumult%20X%20%E9%97%AA%E7%94%B5%E6%A0%87%E5%BF%97.png)
-
-### 3、圈X 自定义图标
+### 2、圈X 自定义图标
 Qure：https://github.com/Koolson/Qure
 <br>
 Twoandz9：https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/TheRaw.json
 
-### 4、圈X 解锁 TikTok
+### 3、圈X 解锁 TikTok
 传送门：https://github.com/Semporia/TikTok-Unlock
 
-### 5、圈X 本地任务脚本
+### 4、圈X 本地任务脚本
 ```text
 [task_local]
 # > 流媒体解锁查询
@@ -64,12 +61,12 @@ event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/
 ; https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/UI-Action.json
 ```
 
-### 6、Sub-Store 教程
+### 5、Sub-Store 教程
 传送门：https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46
 <br/>
 自用的订阅转换：https://github.com/wmsxwdsh/ClashSub
 
-### 7、Shadowrocket 规则
+### 6、Shadowrocket 规则
 有时候用下小火箭
 <br/>
 传送门：https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever
