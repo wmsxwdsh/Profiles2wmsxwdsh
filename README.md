@@ -54,6 +54,8 @@ Twoandz9：https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/TheRaw
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js, tag=流媒体解锁查询, img-url=arrowtriangle.right.square.system, enabled=true
 # > GeoIP 查询
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js, tag=GeoIP 查询, img-url=location.fill.viewfinder.system
+# > 送中 查询
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-google.js, tag=送中 查询, img-url=https://raw.githubusercontent.com/Yuanxsxs/QtumultX/master/Icon/Catcat/ae49e35adfd291ad.png, enabled=true
 
 # > 请手动添加下面的订阅（流媒体Task订阅集合）
 ; https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/UI-Action.json
