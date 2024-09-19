@@ -33,6 +33,8 @@ Surge 开发者推荐的最小配置： [链接地址有点长，点我直接跳
 Lucky 自用：https://raw.githubusercontent.com/As-Lucky/Lucky/main/Lucky-Surge.conf
 <br/>
 深巷有猫：https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge.conf
+<br/>
+---- 我的：https://raw.githubusercontent.com/wmsxwdsh/ClashSub/main/Surge127New.conf
 
 ## 三、拓展和补充
 
