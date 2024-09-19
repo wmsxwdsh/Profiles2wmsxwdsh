@@ -34,7 +34,7 @@ Lucky 自用：https://raw.githubusercontent.com/As-Lucky/Lucky/main/Lucky-Surge
 <br/>
 深巷有猫：https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge.conf
 <br/>
----- 我的：https://raw.githubusercontent.com/wmsxwdsh/ClashSub/main/Surge127New.conf
+---- 我的：https://raw.githubusercontent.com/wmsxwdsh/ClashSub/main/ModelSurge.conf
 
 ## 三、拓展和补充
 
