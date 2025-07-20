@@ -7,13 +7,13 @@
 Quantumult X 不完全教程：https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
 
 ## 一、Quantumult X 懒人配置
-墨鱼：https://raw.githubusercontent.com/ddgksf2013/Profile/master/QuantumultX.conf
-<br/>
-Matrix：https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/QuantumultX/matrix.conf
-<br/>
-Wen大：https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf
+Matrix3：https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/QuantumultX/matrix.conf
 <br/>
 Orz-3：https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf
+<br/>
+墨鱼：https://gist.githubusercontent.com/ddgksf2013/cf38fcf85651f6b467df590da03dfcf8/raw/QuantumultX.conf
+<br/>
+肖大：https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf
 <br/>
 毒奶：https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf
 <br/>
@@ -21,7 +21,7 @@ Yatta：https://raw.githubusercontent.com/yawenchim/QuantumultX-mix/master/Yatta
 <br/>
 奇心：https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qixin.conf
 <br/>
----- 我的：https://raw.githubusercontent.com/wmsxwdsh/Profiles2wmsxwdsh/main/wmsxwdsh.conf
+---- 我的：https://raw.githubusercontent.com/wmsxwdsh/Profiles2wmsxwdsh/main/QXwmsxwdsh.conf
 
 ## 二、Surge 懒人配置
 iOS、macOS，大部分都是通用的。
@@ -32,7 +32,7 @@ Surge 开发者推荐的最小配置： [链接地址有点长，点我直接跳
 <br/>
 Lucky 自用：https://raw.githubusercontent.com/As-Lucky/Lucky/main/Lucky-Surge.conf
 <br/>
-深巷有猫：https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge.conf
+深巷有喵：https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge.conf
 <br/>
 ---- 我的：https://raw.githubusercontent.com/wmsxwdsh/ClashSub/main/Surge127.conf
 
@@ -64,7 +64,7 @@ event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/
 ```
 
 ### 5、Sub-Store 教程
-传送门：https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46
+传送门：https://www.74110.net/tutorial/app/sub-store/
 <br/>
 自用的订阅转换：https://github.com/wmsxwdsh/ClashSub
 
