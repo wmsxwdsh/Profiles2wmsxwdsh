@@ -11,8 +11,6 @@ Matrix3：https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Quantu
 <br/>
 Orz-3：https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf
 <br/>
-墨鱼：https://gist.githubusercontent.com/ddgksf2013/cf38fcf85651f6b467df590da03dfcf8/raw/QuantumultX.conf
-<br/>
 肖大：https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf
 <br/>
 毒奶：https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf
